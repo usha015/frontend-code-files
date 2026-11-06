@@ -1,0 +1,17 @@
+input{
+    border: 3px dotted rgb(0, 174, 255);
+}
+/* class,id */
+.username{
+    border: 4px double rgb(98, 255, 0);
+}
+
+#Email{
+    border: 5px solid rgb(205, 50, 146);
+}
+
+
+.h2{
+    color: aqua;
+    background-color: yellow;
+}
